@@ -1,7 +1,7 @@
 # Blender Multi-Camera Simultaneous Video Capture Plugin
 
 ## Introduction
-The Addon is a Multi cameara simultaneous video capture addon which spawns in 5 cameras and recodes the animations from 5 points of views simultaneous between the specified frames.
+The Addon is a Multi camera simultaneous video capture addon which spawns 5 cameras and records the animations from 5 points of views simultaneously between the specified frames.
 
 ## Contents
 This Repository contains:
